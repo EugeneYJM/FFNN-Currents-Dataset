@@ -9,6 +9,6 @@ Spatial Resolution: 0.25° x 0.25°
 
 Geographical Scope: Equatorial Pacific（134°E - 91.75°W）
 
-Right Statement: Guangdong Ocean University(GDOU), Liang Peng's team
+Right Statement: Guangdong Ocean University (GDOU), Liang Peng's team
 
 Email: yjm20000103@gmail.com
