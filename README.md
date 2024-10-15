@@ -5,7 +5,7 @@ Data Format: NetCDF
 
 Time Resolution: Daily
 
-Spatial Resolution: 0.25° x 0.25°
+Spatial Resolution: 0.25°
 
 Geographical Scope: Equatorial Pacific（134°E - 91.75°W）
 
